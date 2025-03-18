@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "shy-band-f546",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "8ab9fc8b-0614-4956-8579-0a6c1f06605e",
+      "database_name": "black-resonance-a655-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
